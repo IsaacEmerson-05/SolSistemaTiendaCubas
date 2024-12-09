@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaEntidades", "CapaEntida
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaAplicacion", "..\CapaAplicacion\CapaAplicacion.csproj", "{C5BA4F7A-09F6-4438-9A4E-63BAEE897BE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaClase", "CapaClase\CapaClase.csproj", "{1EA8D98F-6E86-460C-9F2F-B37EE5E6F967}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaClase\CapaDatos.csproj", "{1EA8D98F-6E86-460C-9F2F-B37EE5E6F967}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
